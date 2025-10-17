@@ -56,7 +56,7 @@ Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD
 2,54,IND,Dayo Odeyingbo,DL,21,2025,0,0,1,12,12,64,0,0,0,0,0,0,0,0,0,0,0,60,,17.5,Vanderbilt,College Stats,OdeyDa00
 2,55,PIT,Pat Freiermuth,TE,22,2025,0,0,2,18,18,64,0,0,0,0,0,0,0,0,227,2255,18,2,,,Penn St.,College Stats,FreiPa00
 2,56,SEA,D'Wayne Eskridge,WR,24,2025,0,0,0,2,2,33,0,0,0,0,0,8,74,0,22,183,1,1,,,Western Michigan,College Stats,EskrDW00
-2,57,LAR,Tutu Atwell,WR,21,2025,0,0,1,12,12,57,0,1,0,0,0,16,72,1,100,1347,4,,,,Louisville,College Stats,AtweTu00
+2,57,LAR,Chatarius Atwell,WR,21,2025,0,0,1,12,12,57,0,1,0,0,0,16,72,1,100,1347,4,,,,Louisville,College Stats,AtweTu00
 2,58,KAN,Nick Bolton,LB,21,2025,0,0,3,23,23,60,0,0,0,0,0,0,0,0,0,0,0,304,4,5.0,Missouri,College Stats,BoltNi00
 2,59,CAR,Terrace Marshall Jr.,WR,21,2024,0,0,1,6,6,43,0,0,0,0,0,0,0,0,67,808,1,1,,,LSU,College Stats,MarsTe00
 2,60,NOR,Pete Werner,LB,22,2025,0,0,3,23,23,59,0,0,0,0,0,0,0,0,0,0,0,225,1,1.5,Ohio St.,College Stats,WernPe00
@@ -149,7 +149,7 @@ Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD
 5,147,HOU,Brevin Jordan,TE,21,2024,0,0,0,4,4,36,0,0,0,0,0,0,0,0,53,532,5,1,,,Miami (FL),College Stats,JordBr00
 5,148,ATL,Ta'Quon Graham,DL,22,2024,0,0,1,9,9,49,0,0,0,0,0,0,0,0,0,0,0,35,,1.0,Texas,College Stats,GrahTa00
 5,149,CIN,Evan McPherson,K,22,2025,0,0,2,11,11,64,0,0,0,0,0,0,0,0,0,0,0,1,,,Florida,College Stats,McPhEv00
-5,150,PHI,Kenneth Gainwell,RB,22,2025,0,0,0,16,16,69,1,1,17,0,0,296,1240,13,109,751,1,6,,,Memphis,College Stats,GainKe00
+5,150,PHI,Kenny Gainwell,RB,22,2025,0,0,0,16,16,69,1,1,17,0,0,296,1240,13,109,751,1,6,,,Memphis,College Stats,GainKe00
 5,151,CHI,Larry Borom,OL,22,2025,0,0,1,13,13,50,0,0,0,0,0,0,0,0,0,0,0,,,,Missouri,College Stats,BoroLa00
 5,152,DEN,Caden Sterns,DB,21,2023,0,0,0,3,3,21,0,0,0,0,0,0,0,0,0,0,0,36,4,2.0,Texas,College Stats,SterCa00
 5,153,CLE,Tony Fields,LB,22,2024,0,0,0,9,9,45,0,0,0,0,0,0,0,0,0,0,0,48,1,,West Virginia,College Stats,FielTo00

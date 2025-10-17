@@ -68,7 +68,7 @@ Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD
 3,66,PHI,Sydney Brown,DB,23,2025,0,0,0,3,3,28,0,0,0,0,0,0,0,0,0,0,0,40,2,,Illinois,College Stats,BrowSy00
 3,67,DEN,Drew Sanders,LB,22,2024,0,0,0,2,2,21,0,0,0,0,0,0,0,0,0,0,0,17,,1.0,Arkansas,College Stats,SandDr00
 3,68,DET,Hendon Hooker,QB,25,2024,0,0,0,0,0,3,6,9,62,0,0,5,2,0,0,0,0,,,,Tennessee,College Stats,HookHe00
-3,69,HOU,Tank Dell,WR,23,2024,0,0,1,12,12,25,0,0,0,0,0,20,94,0,98,1376,10,,,,Houston,College Stats,DellNa00
+3,69,HOU,Nathaniel Dell,WR,23,2024,0,0,1,12,12,25,0,0,0,0,0,20,94,0,98,1376,10,,,,Houston,College Stats,DellNa00
 3,70,LVR,Byron Young,DL,22,2025,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,4,,,Alabama,College Stats,YounBy00
 3,71,NOR,Kendre Miller,RB,21,2025,0,0,0,3,3,17,0,0,0,0,0,97,363,2,18,161,0,,,,TCU,College Stats,MillKe01
 3,72,ARI,Garrett Williams,DB,22,2025,0,0,1,6,6,27,0,0,0,0,0,0,0,0,0,0,0,66,3,,Syracuse,College Stats,WillGa00
@@ -192,7 +192,7 @@ Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD
 6,190,CLE,Luke Wypler,OL,22,2025,0,0,0,1,1,8,0,0,0,0,0,0,0,0,0,0,0,,,,Ohio St.,College Stats,WyplLu00
 6,191,TAM,Trey Palmer,WR,22,2024,0,0,0,6,6,32,0,0,0,0,0,3,22,0,51,557,4,,,,Nebraska,College Stats,PalmTr00
 6,192,NWE,Bryce Baringer,P,24,2025,0,0,1,7,7,37,0,0,0,0,0,0,0,0,0,0,0,1,,,Michigan St.,College Stats,BariBr00
-6,193,WAS,Chris Rodriguez,RB,22,2025,0,0,0,3,3,23,0,0,0,0,0,97,459,4,3,24,0,3,,,Kentucky,College Stats,RodrCh00
+6,193,WAS,Christopher Rodriguez,RB,22,2025,0,0,0,3,3,23,0,0,0,0,0,97,459,4,3,24,0,3,,,Kentucky,College Stats,RodrCh00
 6,194,KAN,Keondre Coburn,DT,23,2024,0,0,0,1,0,20,0,0,0,0,0,0,0,0,0,0,0,10,,,Texas,College Stats,CobuKe00
 6,195,NOR,A.T. Perry,WR,23,2023,0,0,0,2,2,10,0,0,0,0,0,0,0,0,12,246,4,,,,Wake Forest,College Stats,PerrAT00
 6,196,TAM,Jose Ramirez,DL,24,2024,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,,,,Eastern Michigan,College Stats,RamiJo00
