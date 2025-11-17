@@ -163,7 +163,7 @@ root/
 
 ## Team  
 
-Kush Lalwani - Data collection
+Kush Lalwani - Data collection 
 Kush Lalwani - Cleaning and normalization  
 Kush Lalwani - Feature engineering  
 Trevor Bunch - Modeling and evaluation  
