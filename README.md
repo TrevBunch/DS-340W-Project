@@ -142,37 +142,23 @@ A helper function fits the final model on selected features and generates predic
 
 ---
 ## Project Structure
-
+```
 root/
-
 │
-
 ├── Parent_code/
-
 ├── clean_data/
-
 ├── college stats/
-
 ├── newdata/
-
 ├── other features/
-
 ├── training/
-
 │
-
 ├── ModelCode.ipynb
-
 ├── README.md
-
 ├── clean_rookies.ipynb
-
 ├── cleaning_data_NFL.ipynb
-
 ├── feature_engineering.ipynb
-
 └── stat_scraper.py
-
+```
 ---
 
 ## Team  
