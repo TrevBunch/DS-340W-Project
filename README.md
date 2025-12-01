@@ -10,7 +10,7 @@ by Kush Lalwani and Trevor Bunch
 
 **Instructions**
 ------------
-1. Install all required packages and correct version of Python
+1. Install all required packages and correct version of Python, set your environemnt to this version of Python when running the Jupyter Notebooks.
 2. (Optional) Rerun the Jupyter Notebooks to create the datasets
     - Run both `clean_rookies.ipynb` and `cleaning_data_NFL.ipynb`. This will use data from the folders `newdata/` and `college stats/` then cleaned and standardized the data. The output of this code will be stored in the folder called `clean_data/`.
     - Run the Jupyter Notebook called `feature_engineering.ipynb`. This will import data from the following folders `clean_data/`,`other features/` then create new features that will used for feeding into the model. The final output of this will be stored in `training/`
