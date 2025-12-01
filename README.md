@@ -2,6 +2,12 @@ Modeling Fantasy Football Player Performance With An Emphasis on Rookie Players
 =========================================================
 by Kush Lalwani and Trevor Bunch
 
+**Requirements**
+------------
+- Run on a Windows Machine
+- Run on Python version 3.9.12, found here: https://www.python.org/downloads/release/python-3912/ under Files -> Windows -> Download Python install manager
+- Required Packages: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn
+
 Why We Chose This Topic
 ------------
 
