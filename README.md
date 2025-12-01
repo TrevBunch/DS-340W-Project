@@ -8,6 +8,15 @@ by Kush Lalwani and Trevor Bunch
 - Run on Python version 3.9.12, found here: https://www.python.org/downloads/release/python-3912/ under Files -> Windows -> Download Python install manager
 - Required Packages: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn
 
+**Instructions**
+------------
+1. Install all required packages and correct version of Python
+2. (Optional) Rerun the Jupyter Notebooks to create the datasets
+- Run both `clean_rookies.ipynb` and `cleaning_data_NFL.ipynb`. This will use data from the folders `newdata/` and `college stats/` then cleaned and standardized the data. The output of this code will be stored in the folder called `clean_data/`.
+- Run the Jupyter Notebook called `feature_engineering.ipynb`. This will import data from the following folders `clean_data/`,`other features/` then create new features that will used for feeding into the model. The final output of this will be stored in `training/`
+3. Run the Notebook called `ModelCode.ipynb` which will use the data from `training/` to actually train our ML models and produce graphs and rankings. 
+
+
 Why We Chose This Topic
 ------------
 
