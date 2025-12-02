@@ -14,7 +14,8 @@ by Kush Lalwani and Trevor Bunch
 2. (Optional) Rerun the Jupyter Notebooks to create the datasets
     - Run both `clean_rookies.ipynb` and `cleaning_data_NFL.ipynb`. This will use data from the folders `newdata/` and `college stats/` then cleaned and standardized the data. The output of this code will be stored in the folder called `clean_data/`.
     - Run the Jupyter Notebook called `feature_engineering.ipynb`. This will import data from the following folders `clean_data/`,`other features/` then create new features that will used for feeding into the model. The final output of this will be stored in `training/`
-3. Run the Notebook called `ModelCode.ipynb` which will use the data from `training/` to actually train our ML models and produce graphs and rankings. 
+3. Run the Notebook called `ModelCode.ipynb` which will use the data from `training/` to actually train our ML models and produce graphs and rankings.
+    - After running the model multiple times we achieved the same results. However runnnig it again after a few weeks, we saw that some of the results changed for veteran QBs and rookie WRs. We were not able to find why this change occurred as all the code stayed the same. We would like to examine this further in our future work.
 
 
 Why We Chose This Topic
